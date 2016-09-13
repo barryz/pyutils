@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+@author: barryz
+@email: barryzxb@gmail.com
+"""
 
 import os.path
 import logging
